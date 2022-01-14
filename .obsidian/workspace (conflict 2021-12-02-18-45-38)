@@ -1,0 +1,87 @@
+{
+  "main": {
+    "id": "352c589e54b51e6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bfd031353d008aa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "500 Animals/Livestock/Four-legged Beasts/Goats/Goat Products/Goat Milk.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "682b485bd1cc42c6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "08595af80f2bb471",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a208b17ded926b53",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#orchardcrop",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8958eb2d5299e82b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ced070708f2a0e9f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "500 Animals/Livestock/Four-legged Beasts/Goats/Goat Products/Goat Milk.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "6bfd031353d008aa",
+  "lastOpenFiles": [
+    "500 Animals/Livestock/Four-legged Beasts/Goats/Goat Products/Goat Milk.md",
+    "500 Animals/Livestock/Four-legged Beasts/Goats/Goat Products/Goat Cheese.md",
+    "500 Animals/Livestock/Four-legged Beasts/Goats/Goat Products/Goat Cream.md",
+    "700 Nutrition/Minerals/Iodine.md",
+    "700 Nutrition/Minerals/Salt.md",
+    "800 Workspaces/812 Apiary.md",
+    "800 Workspaces/802 Fields.md",
+    "400 Plants/Trees/Sugar Maple.md",
+    "400 Plants/Trees/Orange Tree.md",
+    "400 Plants/Trees/Pear Tree.md"
+  ]
+}

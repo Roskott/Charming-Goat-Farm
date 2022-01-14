@@ -1,0 +1,1 @@
+These plants can be used to halt progress of pests or attract beneficial species

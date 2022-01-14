@@ -1,0 +1,3 @@
+The Charming Goat Farm is a dream retirement plan, fully sustainable and organic in nature (more to reduce the need for outside resources to maintain operation). The goal is to produce a farm that can do a bit more than sustainance farming, and churn out enough profit to stave off poverty until death's sweet embrace takes us. 
+
+Open source robotics projects will make it possible to expand the operation while not taking up too many man hours to stay operable. Since this is a retirement plan, and, you know I'd be in my silver/golden years at that point, I have to plan for not being physically fully capable. Brain power needs to augment physical power to make this work. 

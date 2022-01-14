@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "c2f3d8e8df4d2155",
+    "type": "split",
+    "children": [
+      {
+        "id": "9699f045d3119dd1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "600 Electronic Systems/Terrestrial Farming Vehicles/Automated Systems/Rovers/Rovers.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c28d7bb7b4849b4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a3c5de3f5f002e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1541edd58d876de3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4da8216d05e5bb5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sensor",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a052d3e546ec852d",
+    "type": "split",
+    "children": [
+      {
+        "id": "48b2407b3d260068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da54dfc2232fb7e4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9dfe932a9ba4aad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "600 Electronic Systems/Terrestrial Farming Vehicles/Automated Systems/Rovers/Rovers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6f3cdaa090ecef5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "600 Electronic Systems/Terrestrial Farming Vehicles/Automated Systems/Rovers/Rovers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa9d30f67282a03e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "42129d4587bd1f1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "600 Electronic Systems/Terrestrial Farming Vehicles/Automated Systems/Rovers/Rovers.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9699f045d3119dd1",
+  "lastOpenFiles": [
+    "600 Electronic Systems/Terrestrial Farming Vehicles/Automated Systems/Rovers/Rovers.md",
+    "600 Electronic Systems/Microcontrollers/Subcomponents/Sensors/Soil Moisture Sensor.md",
+    "800 Workspaces/Fields/Fields.md",
+    "000 Charming Goat Farm Overview/!To Do.md",
+    "600 Electronic Systems/Arial Farming Vehicles/Drones/0 Arial Farming Vehicles.md",
+    "600 Electronic Systems/Arial Farming Vehicles/Drones/Drones.md",
+    "600 Electronic Systems/Microcontrollers/Raspberry Pi Pico.md",
+    "400 Plants/Fiber Plants/Jute.md",
+    "Voice Notes/Regarding Field Microcontrollers.md",
+    "400 Plants/Fiber Plants/Hemp.md"
+  ]
+}

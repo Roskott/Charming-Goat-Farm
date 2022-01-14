@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "f7a382777ab5c924",
+    "type": "split",
+    "children": [
+      {
+        "id": "59eb1d890d3e2f32",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "400 Plants/Medicinal Plants/402 Medicinal Plants.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11392cf4ceb7fa68",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "588ce81e2207765b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "fe6c9457af7e580e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "de83e494f9ca9714",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5e67181478f73600",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c8b304baa2638067",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "5e35a43fa5f37994",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "400 Plants/Medicinal Plants/402 Medicinal Plants.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "601e495bfd47ed62",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "400 Plants/Medicinal Plants/402 Medicinal Plants.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "da9b9334f13ae6e1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "400 Plants/Medicinal Plants/402 Medicinal Plants.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "59eb1d890d3e2f32",
+  "lastOpenFiles": [
+    "400 Plants/Medicinal Plants/402 Medicinal Plants.md",
+    "400 Plants/Medicinal Plants/Medicine Categories/Antinauesa.md",
+    "400 Plants/Food/Flowers/0 Edible Flowers.md",
+    "400 Plants/Food/Grain/Corn/0 Corn.md",
+    "400 Plants/Trees/Pome Trees/Apple/0 Apple Tree.md",
+    "300 Housing/Recreational Vehicle/302 Recreational Vehicle.md",
+    "300 Housing/Recreational Vehicle/Bedroom.md",
+    "400 Plants/Trees/Camphor Tree/0 Camphor Tree.md",
+    "9000 Unsorted Notes/Tools/Additive Manufacturing/3d Printer.md",
+    "100 Electricity/Generation Methods/Solar Generation Types/Perovskite Cells.md"
+  ]
+}

@@ -1,0 +1,7 @@
+# Reishi Mushroom
+---
+
+
+
+
+#fungus #medicinal

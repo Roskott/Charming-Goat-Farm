@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "3ad632928763000c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a624921daeb8edf8",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e43072f923c123f4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1ce032df74f35b46",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e497d4f4d244a17e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "db3876cabfaf6709",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3f4b13778da6a8f6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8c14542d4e3be96a",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "2ca906a1801aa18f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cf99af00b9a7fb5e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "77b4aeb9f931d8de",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "a624921daeb8edf8",
+  "lastOpenFiles": [
+    "9000 Unsorted Notes/Tools/Additive Manufacturing/3d Printer/SLS/SLS Manufacturing.md",
+    "9000 Unsorted Notes/Tools/Additive Manufacturing/3d Printer/3d Printer.md",
+    "9000 Unsorted Notes/Tools/Additive Manufacturing/3d Printer/FDM/FDM Manufacturing.md",
+    "9000 Unsorted Notes/Tools/Additive Manufacturing/3d Printer/SLA/SLA Manufacturing.md",
+    "unlinked files output (conflict 2021-12-08-20-20-08).md",
+    "700 Nutrition/Nutrition Overview.md",
+    "300 Housing/Housing Overview.md",
+    "300 Housing/House/House.md",
+    "300 Housing/Recreational Vehicle/Recreational Vehicle.md",
+    "300 Housing/Trailer/Trailer.md"
+  ]
+}

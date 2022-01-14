@@ -1,0 +1,17 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Linked Documents",
+  "spellcheckDictionary": [
+    "micronutrient",
+    "microcontroller",
+    "Pico"
+  ],
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "livePreview": true
+}

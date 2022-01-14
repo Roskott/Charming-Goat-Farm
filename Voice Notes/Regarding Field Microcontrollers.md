@@ -1,0 +1,3 @@
+Experimentally speaking, the values of the soil moisture must be determined, as well as the sphere of influence each irrigation point holds. 
+To accomplish this, a small batch of [[Onion | onions]] in a window may be used to determine these values. 
+Any [[Microcontrollers]] should be able to perform these tasks easily. Reduction of infrastructure to as few wires as possible should be looked into it may be possible to control all sensors using nothing but a single wire system. 
