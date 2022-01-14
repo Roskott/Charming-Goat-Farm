@@ -15,3 +15,8 @@ There are seemingly 2 types of sensors, those that use resistance (cheaper, esse
 1/13/2021
 --- 
 It seems that the capacitive soils sensors are incredibly easy to produce, requiring only a 555 timer, voltage regulator, and some capacitors and resistors. it may be possible to create a decentralized version that cab be run along drip irrigation, freeing up the rovers for less intensive duties.
+
+1/14/2021
+---
+After reviewing total material required to run sensors over the entire [[Field]], it was decided to keep the SMS as a tool for the soil arm of the Rovers.
+It is more beneficial for Rovers to work as teams, one checking the values, and the other running the watering. 
