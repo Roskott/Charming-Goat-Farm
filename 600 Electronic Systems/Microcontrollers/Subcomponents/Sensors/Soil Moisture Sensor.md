@@ -11,3 +11,7 @@ The Soil Moisture Sensor can be used to determine how much water should be outpu
 These can be mounted onto the [[Rovers]] to reduce the total amount of wire infrastructure required, as well as reduce the total number or sensors needed to gather information.
 
 There are seemingly 2 types of sensors, those that use resistance (cheaper, essentially just ohmmeters) and capacitive (more expensive, less easily DIY'd). The main difference to these two are the exposure to the test medium itself, the capacitive sensors being entirely encapsulated will not experience corrosion as often, and should theoretically be far more likely to last long term. In this way, capacitive sensors are more economical.
+
+1/13/2021
+--- 
+It seems that the capacitive soils sensors are incredibly easy to produce, requiring only a 555 timer, voltage regulator, and some capacitors and resistors. it may be possible to create a decentralized version that cab be run along drip irrigation, freeing up the rovers for less intensive duties.

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9699f045d3119dd1",
+        "id": "93cbfa3f0afd697b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "600 Electronic Systems/Terrestrial Farming Vehicles/Automated Systems/Rovers/Rovers.md",
+            "file": "9000 Unsorted Notes/Hybrids.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sensor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 Electronic Systems/Terrestrial Farming Vehicles/Automated Systems/Rovers/Rovers.md",
+                "file": "9000 Unsorted Notes/Hybrids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "600 Electronic Systems/Terrestrial Farming Vehicles/Automated Systems/Rovers/Rovers.md",
+                "file": "9000 Unsorted Notes/Hybrids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "600 Electronic Systems/Terrestrial Farming Vehicles/Automated Systems/Rovers/Rovers.md"
+                "file": "9000 Unsorted Notes/Hybrids.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9699f045d3119dd1",
+  "active": "93cbfa3f0afd697b",
   "lastOpenFiles": [
-    "600 Electronic Systems/Terrestrial Farming Vehicles/Automated Systems/Rovers/Rovers.md",
+    "9000 Unsorted Notes/Hybrids.md",
+    "9000 Unsorted Notes/Heirlooms.md",
+    "9000 Unsorted Notes/Hot Pepper Paintballs.md",
+    "9000 Unsorted Notes/Varieties.md",
+    "9000 Unsorted Notes/Vitamin E.md",
+    "600 Electronic Systems/Microcontrollers/Microcontrollers.md",
+    "600 Electronic Systems/Microcontrollers/ESP32.md",
+    "600 Electronic Systems/Microcontrollers/Arduino UNO.md",
     "600 Electronic Systems/Microcontrollers/Subcomponents/Sensors/Soil Moisture Sensor.md",
-    "800 Workspaces/Fields/Fields.md",
-    "000 Charming Goat Farm Overview/!To Do.md",
-    "600 Electronic Systems/Arial Farming Vehicles/Drones/0 Arial Farming Vehicles.md",
-    "600 Electronic Systems/Arial Farming Vehicles/Drones/Drones.md",
-    "600 Electronic Systems/Microcontrollers/Raspberry Pi Pico.md",
-    "400 Plants/Fiber Plants/Jute.md",
-    "Voice Notes/Regarding Field Microcontrollers.md",
-    "400 Plants/Fiber Plants/Hemp.md"
+    "600 Electronic Systems/Terrestrial Farming Vehicles/Automated Systems/Rovers/Rovers.md"
   ]
 }
